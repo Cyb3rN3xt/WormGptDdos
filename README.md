@@ -15,7 +15,7 @@ WormGPTDdos is a highly potent DDoS (Distributed Denial of Service) tool develop
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/WormGptDdos.git
+git clone https://github.com/Cyb3rN3xt/WormGptDdos.git
 ```
 
 2. Navigate to the project directory:
