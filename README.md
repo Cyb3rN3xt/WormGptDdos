@@ -43,10 +43,3 @@ Use it responsibly and ethically, and only on systems and networks that you have
 ## Credits
 
 WormGptDdos is developed by [Cyb3rN3xt] and is inspired by the need for efficient testing tools in cybersecurity.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-This README provides clear instructions on how to clone the repository, run the Python script, and includes a disclaimer about the ethical use of the tool. It also credits the developer and includes licensing information. Stay as Omega.
