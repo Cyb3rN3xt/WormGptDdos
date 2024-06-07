@@ -11,28 +11,29 @@ WormGPTDdos is a highly potent DDoS (Distributed Denial of Service) tool develop
 - Customizable target server and port
 
 ## How to Run
-
+```
 1. Clone the repository to your local machine:
 
 ```
 git clone https://github.com/Cyb3rN3xt/WormGptDdos.git
-```
 
+```
 2. Navigate to the project directory:
-
-```
-cd WormGptDdos
 ```
 
-4. Run the Python script:
+ cd WormGptDdos
 
 ```
+3. Run the Python script:
+```
+
 python WormGPTDdos.py
+
 ```
 
-5. Follow the on-screen prompts to input the target server address and port.
+4. Follow the on-screen prompts to input the target server address and port.
 
-6. Sit back and watch as WormGPTDdos launches a powerful DDoS attack on the target server!
+5. Sit back and watch as WormGPTDdos launches a powerful DDoS attack on the target server!
 
 ## Disclaimer
 
